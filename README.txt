@@ -1,0 +1,1 @@
+Open index.html to preview. Replace ADD PHONE, ADD EMAIL, ADD AREA and the placeholder photo blocks before publishing.
